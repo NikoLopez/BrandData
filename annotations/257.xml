@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>257</filename>
+  <path>C:/Users/pol20/Desktop/nikedata/images/257.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>244</width>
+    <height>207</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>adidas</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>20</ymin>
+      <xmax>236</xmax>
+      <ymax>186</ymax>
+    </bndbox>
+  </object>
+</annotation>

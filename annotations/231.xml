@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>231</filename>
+  <path>C:/Users/pol20/Desktop/nikedata/images/231.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>353</width>
+    <height>143</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>vans</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>15</xmin>
+      <ymin>6</ymin>
+      <xmax>322</xmax>
+      <ymax>137</ymax>
+    </bndbox>
+  </object>
+</annotation>
